@@ -1,0 +1,1 @@
+Currently only hosts a game [prototype](https://puddualessandro.github.io/ml-balancing/) created as part of my bachelor's thesis to evaluate the balance/fairness of game levels that were generated and balanced using reinforcement learning.
